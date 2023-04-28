@@ -7,7 +7,7 @@ filmarate project database schema
   <img alt="Filmarate project database schema" src="https://github.com/Pawel070/filmarate_base/blob/eb937f2ce7e967a10b9c7db34a2471fed5c6edfb/Filmarate.png">
 </picture>
 
-
+## Filmarate.sql - base structure in the format PostgreSQL
 ## additional data types used in base
 
 <!-- Enum pawel.genre_status {               -->
