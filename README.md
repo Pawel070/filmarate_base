@@ -8,7 +8,7 @@ filmarate project database schema
 </picture>
 
 ## base structure in the format PostgreSQL https://github.com/Pawel070/filmarate_base/blob/8b03e4aebd4e5edaef98f6f20fd0430476ab445f/Filmarate.sql
-## additional data types used in base
+## additional data types used in base listed below and in the file Enum.txt
 
 <!-- Enum pawel.genre_status {               -->
 <!-- COMEDY                                  -->
