@@ -1,0 +1,23 @@
+Enum pawel.genre_status {
+COMEDY
+DRAMA
+CARTOON
+TRILLER
+DOCUMENTARY
+HITMAN
+INDISTINCT
+}
+
+Enum pawel.type_friend {
+FRIEND
+NO_FRIEND
+FRIEND_REQUEST
+}
+
+Enum pawel.rate_status {
+G
+PG
+PG14
+R
+NC17
+}
